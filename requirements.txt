@@ -1,0 +1,7 @@
+streamlit
+docx
+python-docx
+sqlite3
+pydantic
+requests
+toml
