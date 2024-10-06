@@ -1,6 +1,25 @@
 # mini_ai_science_researcher
 Streamlit app to perform research and write papers
 
+# Mini AI Science Researcher
+
+An AI-powered application that generates comprehensive research papers based on user-provided topics.
+
+## Features
+
+- **Outline Generation**: Creates a detailed outline using recursive refinement.
+- **Content Generation**: Generates content for each section with iterative improvements.
+- **Document Processing**: Formats the document, processes figures and tables, and manages references.
+- **User Interface**: Streamlit-based UI with progress tracking and interactive elements.
+- **Download Options**: Provides the final document in MS Word format for download.
+
+## Setup Instructions
+
+1. **Create a Conda Environment**
+
+   ```bash
+   conda create -n mini_ai_researcher python=3.9
+   conda activate mini_ai_researcher
 
 ---
 
