@@ -1,10 +1,10 @@
 # settings.toml
 [API_KEYS]
-google_api_key = "YOUR_GOOGLE_API_KEY"
-custom_search_engine_id = "YOUR_CUSTOM_SEARCH_ENGINE_ID"
-groq_api_key = "YOUR_GROQ_API_KEY"
-napkin_ai_api_key = "YOUR_NAPKIN_AI_API_KEY"
+google_api_key = "AIzaSyCkHvAvjKnI_fvXg7RravxNz75REqLXc_g"
+custom_search_engine_id = "59257209"
+groq_api_key = "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"
+#napkin_ai_api_key = "YOUR_NAPKIN_AI_API_KEY"
 
 [APP_SETTINGS]
 groq_model_name = "llama-3.2-90b"
-max_iterations = 4
+max_iterations = 50
