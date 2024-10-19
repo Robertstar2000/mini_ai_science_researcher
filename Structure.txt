@@ -2,8 +2,8 @@ mini_ai_science_researcher/
 │
 ├── main.py
 ├── agents.py
-├── utils.py
-├── ui.py
+├── content.py
+├── content.py
 ├── settings.toml
 ├── requirements.txt
 ├── README.md
