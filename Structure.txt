@@ -4,6 +4,7 @@ mini_ai_science_researcher/
 ├── agents.py
 ├── content.py
 ├── content.py
+├── settings.py
 ├── settings.toml
 ├── requirements.txt
 ├── README.md
