@@ -1,4 +1,4 @@
-# mini_ai_science_researcher
+## ai science_researcher
 Streamlit app to perform research and write papers
 
 # Mini AI Science Researcher
